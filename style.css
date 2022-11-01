@@ -1,0 +1,27 @@
+body{
+    background-image:url("ai-back.jpeg") ;
+    background-size: cover
+}
+h1{
+    margin:0 ;
+    font-size: 25px;
+    width: 100%;
+    color: burlywood;
+    padding-left: 5px;
+}
+h3{
+    color: lawngreen;
+    font-size: 20px;
+    margin: 15px;
+}
+input{
+    padding: 3px;
+    padding-left: 15px;
+    width:25% ;
+    border: 3px rgb(0, 0, 0) solid;
+    border-radius: 5px;
+    color: black;
+}
+#start{
+    font-size: 20px;
+}
